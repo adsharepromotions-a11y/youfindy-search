@@ -1,0 +1,9 @@
+{
+  "name": "youfindy-search",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
